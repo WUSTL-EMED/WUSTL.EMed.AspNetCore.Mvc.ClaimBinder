@@ -363,3 +363,5 @@ FodyWeavers.xsd
 
 # Strong name key file
 *.snk
+
+WUSTL.EMed.AspNetCore.Mvc.ClaimBinder/WUSTL.EMed.AspNetCore.Mvc.ClaimBinder.xml
